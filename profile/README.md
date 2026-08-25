@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/snugprotocol/.github/main/profile/hub-talk-build-run.png" alt="Snug — talk. build. run. Describe a tiny app and the agent writes it — then run it in a sandbox you can watch think." width="800" />
+  <img src="https://raw.githubusercontent.com/snugprotocol/.github/main/profile/org-profile-banner.png" alt="Snug — MCP connects agents to tools. Snug connects agents to apps. Two repositories: snugprotocol/snug, the reference implementation; snugprotocol/spec, the protocol specification." width="800" />
 </p>
 
 <h1 align="center">The Snug Protocol</h1>
