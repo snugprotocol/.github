@@ -34,8 +34,6 @@
 | [`snug`](https://github.com/snugprotocol/snug) | The reference implementation — protocol bindings, sandboxed runner, SDK, portable database, agent adapters, the Playground, the macOS desktop app, and starter apps |
 | [`spec`](https://github.com/snugprotocol/spec) | **Specification 1.0** (normative) — the spec, JSON schemas for every message type, and the whitepaper |
 
-> **Pre-launch note:** the repositories above open to the public at launch. Until then, everything worth reading is live at [snugprotocol.org](https://snugprotocol.org) — the [docs](https://snugprotocol.org/docs/), the [full spec](https://snugprotocol.org/docs/spec/), and the [Playground](https://playground.snugprotocol.org) you can try right now.
-
 ### Start here
 
 - **Curious?** [What is Snug?](https://snugprotocol.org/docs/get-started/what-is-snug/) → [try it in five minutes](https://snugprotocol.org/docs/get-started/quickstart/)
