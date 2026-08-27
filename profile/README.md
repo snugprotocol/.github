@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/snugprotocol/.github/main/profile/org-profile-banner.png" alt="Snug — MCP connects agents to tools. Snug connects agents to apps. Two repositories: snugprotocol/snug, the reference implementation; snugprotocol/spec, the protocol specification." width="800" />
+  <img src="https://raw.githubusercontent.com/snugprotocol/.github/main/profile/org-profile-banner.png" alt="Snug — your software shouldn't need a landlord. Your app. Your data. Your choice of intelligence. Two repositories: snugprotocol/snug, the reference implementation; snugprotocol/spec, the protocol specification." width="800" />
 </p>
 
 <h1 align="center">The Snug Protocol</h1>
 
-<p align="center"><strong>MCP connects agents to tools. Snug connects agents to apps.</strong></p>
+<p align="center"><strong>An open protocol for portable, agent-backed personal software.</strong></p>
 
 <p align="center">
-  Snug is an open protocol (MIT) for tiny, user-built apps that <em>think through their host's AI agent at runtime</em> —<br />
-  and live, code and data and chats, in <strong>one portable file the user owns</strong>.
+  Snug is an open protocol (MIT) for small, user-built apps that <em>think through their host's AI agent at runtime</em> —<br />
+  while the app and its accumulated state — code, data, chats — live in <strong>one portable file the user keeps</strong>.
 </p>
 
 <p align="center">
